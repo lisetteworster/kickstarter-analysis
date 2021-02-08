@@ -11,7 +11,7 @@ performing analysis on Kickstarter data to uncover trends
 ### Analysis of Outcomes Based on Launch Date
 	When I originally brought the data in I wasn't able to get Theater filter from the "Parent Category" I used the "Subcategory" from the Category and Subcategory in the data from the kickstarter after changing it to "Text to Columns". Also the numbers I got for the pivot chart was a lot higher than what i supposed to get but the chart looks correct?  
 ### Analysis of Outcomes Based on Goals
-	Getting the data for this I thought was very straight forward I however misunderstood the directions and thought I was supposed to just solve for the Goals. When I got help from my tutor they didn't understand the directions either so I was lead down the wrong path. It was solved by attending one of the office hours today (sunday with sam)
+	Getting the data for this I thought was very straight forward I however misunderstood the directions and thought I was supposed to just solve for the Goals. 
 ### Challenges and Difficulties Encountered
 	Some of the challenges I encountered were with tables and using 2 different worksheets for one pivot chart.
 ## Results
