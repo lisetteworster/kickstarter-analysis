@@ -1,15 +1,15 @@
 # kickstarter-analysis
-performing analysis on Kickstarter data to uncover trends
+	performing analysis on Kickstarter data to uncover trends.
 # Kickstarting with Excel
-	This worksheet was difficult for me in my ways. I was able to get tutoring and do one office hours but for some reason I did not obtain the results I was supposed to get in the pivot charts with the percentage.
+	Gathering data for pivot charts with the percentage.
 ## Overview of Project
-	I think or maybe hope that on future challenges I will not have as much difficulty. I apologize for how weak this first attempt is but I plan on redoing for the full points.
+	design pivot charts.
 ### Purpose
-	I learned a lot about nesting and using functions. But mostly getting used to the new terminology in excel.
+	I learned a lot about nesting and using functions. But mostly, getting used to the new terminology in excel.
 ## Analysis and Challenges
 	I felt as if the analysis of the data was straight forward as long as I am careful of language in the directions. The challenge was different then the practice and through me off a little. 
 ### Analysis of Outcomes Based on Launch Date
-	When I originally brought the data in I wasn't able to get Theater filter from the "Parent Category" I used the "Subcategory" from the Category and Subcategory in the data from the kickstarter after changing it to "Text to Columns". Also the numbers I got for the pivot chart was a lot higher than what i supposed to get but the chart looks correct?  
+	When I originally brought the data in I wasn't able to get Theater filter from the "Parent Category" I used the "Subcategory" from the Category and Subcategory in the data from the kickstarter after changing it to "Text to Columns".   
 ### Analysis of Outcomes Based on Goals
 	Getting the data for this I thought was very straight forward I however misunderstood the directions and thought I was supposed to just solve for the Goals. 
 ### Challenges and Difficulties Encountered
