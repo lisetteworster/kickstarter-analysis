@@ -6,8 +6,7 @@
 	design pivot charts.
 ### Purpose
 	I learned a lot about nesting and using functions. But mostly, getting used to the new terminology in excel.
-## Analysis and Challenges
-	I felt as if the analysis of the data was straight forward as long as I am careful of language in the directions. The challenge was different then the practice and through me off a little. 
+ 
 ### Analysis of Outcomes Based on Launch Date
 	When I originally brought the data in I wasn't able to get Theater filter from the "Parent Category" I used the "Subcategory" from the Category and Subcategory in the data from the kickstarter after changing it to "Text to Columns".   
 ### Analysis of Outcomes Based on Goals
