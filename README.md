@@ -11,8 +11,7 @@
 	When I originally brought the data in I wasn't able to get Theater filter from the "Parent Category" I used the "Subcategory" from the Category and Subcategory in the data from the kickstarter after changing it to "Text to Columns".   
 ### Analysis of Outcomes Based on Goals
 	Getting the data for this I thought was very straight forward I however misunderstood the directions and thought I was supposed to just solve for the Goals. 
-### Challenges and Difficulties Encountered
-	Some of the challenges I encountered were with tables and using 2 different worksheets for one pivot chart.
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
